@@ -1,4 +1,9 @@
 # Diverse Assets
+Diverse Assets: Instructional materials should employ a diverse range of images and cultural perspectives on course content.
+
+- What readings can be included in the course that represent diverse perspectives on course content?
+- What images and examples can be used that increase the diversity presented in class?  
+- What social issues are appropriate to discuss in class, and how can these issues be incorporated to course content?
 
 
 | Courses | Description | Links and Resources
