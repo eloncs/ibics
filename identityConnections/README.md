@@ -1,9 +1,10 @@
 # Identity Connections
 
-Identity Connections: Courses should provide an opportunity for students to connect with new course knowledge from their unique cultural perspectives.
-What choice or agency can be given to students in how the classroom is managed?
-How can course projects be made more open-ended to allow students to explore matters of interest to them?
-How can course assignments and activities better give students a platform to express their unique experiences and strengths?
+Courses should provide an opportunity for students to connect with new course knowledge from their unique cultural perspectives.
+
+- What choice or agency can be given to students in how the classroom is managed?
+- How can course projects be made more open-ended to allow students to explore matters of interest to them?
+- How can course assignments and activities better give students a platform to express their unique experiences and strengths?
 
 | Courses | Description | Links and Resources |
 | --- | --- | --- |
