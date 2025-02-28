@@ -10,7 +10,7 @@ A companion site to the SIGCSE paper: "Interventions for Increasing Belonging an
 - Scott Spurlock
 
 # Resources
-These are resources the authors created and compiled for this research. Access our full repository [here](https://github.com/eloncs/ibics/). 
+Below are resources the authors created and compiled for this research. Access our full repository [here](https://github.com/eloncs/ibics/). 
 
 ## Diverse Assets
 Diverse Assets: Instructional materials should employ a diverse range of images and cultural perspectives on course content.
