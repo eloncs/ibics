@@ -62,5 +62,8 @@ Meaning Making: The learning experience should value the education of the whole 
 | AI | After learning the basics of agents, students met in groups to develop their own “dream” AI. They presented the idea (including how it fit in the definition of an intelligent agent) to instructorm who pretended to be a VC with funding - and were competing for my millions of pretend dollars. | See [AI Agent Design document](https://github.com/eloncs/ibics/blob/main/meaningMaking/AI_agentDesign_groupDiscussion.pdf) in repository |
 | Any course | Utilize monthly anonymous survey to get feedback. Works well for students who are nervous about speaking up in class. | [Survey Questions](https://docs.google.com/document/d/1JhSjLsMhXzf8Jbn7yN6fXAvA_IKYwJjZNAGW1MsbQTU/edit?tab=t.0) |
 
+## Survey Instrument
+To evalute the impact of our interventions, we distributed a survey instrument across to students in courses across our department. Some were taught by instructors participating in this reasearch, and others were not. Our survey instrument is included in the repository [here](https://github.com/eloncs/ibics/blob/5290affa70fd98136134062c7e571a0b6c635975/surveyInstrument/Survey_PrePost_CRT_Evaluation.pdf)
+
 
 
