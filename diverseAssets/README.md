@@ -15,4 +15,5 @@ Diverse Assets: Instructional materials should employ a diverse range of images 
 | Any Course | A good summary of inclusive language for general use | https://www.apa.org/about/apa/equity-diversity-inclusion/language-guidelines |
 | Data Science & Visualization | Project using data exploring issues related to DEI, social justice, etc.| [Project Handout](https://sites.google.com/elon.edu/csc1100-finalproject/overview) |
 | Any course | Introduce students to famous and diverse computer scientists | See Famous Fridays in repository |
+| AI, Data Science, Machine Learning | Ethics essay writing on current issues. | See DMML Ethics files in repository |
 | AI, Data Science, Tech Ethics | Slides with discussion prompts related to ethics in AI and technology development. Students were assigned readings from Future Ethics, by Cennydd Bowles, and these informed most discussions. Folder includes slide deck templates that can be collaboratively edited by student groups after their discussions, and then presented to the class. | [Technology Ethics discussion slides](https://drive.google.com/drive/folders/1TV3CgrtV3feE6WeTx8zSG3Ioo32TyAw_?usp=drive_link) |
